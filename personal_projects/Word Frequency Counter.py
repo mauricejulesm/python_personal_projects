@@ -15,7 +15,6 @@ def start(url):
 
     clean_up_list(word_list)
 
-
 def clean_up_list(word_list):
     clean_word_list = []
     for word in word_list:
